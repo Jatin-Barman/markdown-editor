@@ -52,5 +52,17 @@ These instructions will help you set up and run the project on your local machin
 
 3. Open your browser and navigate to `http://localhost:3000` to see the application in action.
 
-## Project Structure
+## Usage
+
+- **Markdown Editor**: Type your Markdown text in the editor on the left.
+- **Live Preview**: See the HTML output in the pane on the right.
+- **Dark Mode**: Click the toggle button at the top right corner to switch between light and dark mode.
+
+## Built With
+
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
+- [Node.js](https://nodejs.org/) - JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js.
+- [Marked](https://marked.js.org/) - A markdown parser and compiler.
+
 
